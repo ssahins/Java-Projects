@@ -4,13 +4,16 @@ Welcome to the Basic Java Projects repository! Here you'll find a collection of 
 
 Projects
 
+> Basic Calculator Program 
+
+> Calculating Factorial
+
+> Calculating the number of days till now
+
 > Checking Even Numbers                        
 
 > Recursion Function
 
-> Calculating the number of days till now
-
-> Calculating Factorial
 
 > Calculating Age from Birthyear
 
