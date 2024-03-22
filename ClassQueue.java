@@ -3,9 +3,9 @@ meaning that the element added first will be the first one to be removed.
 
  add - adding new element
  poll - removing one element
- empty - checking if the stack is empty
+ empty - checking if the queue is empty
  peek - prints the first value
- isEmpty - checking if the stack is empty
+ isEmpty - checking if the queue is empty
 
  */
 
