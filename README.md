@@ -12,6 +12,8 @@ Projects
 
 > Calculating the number of days till now
 
+> Stack Data Structure
+
 > Checking Even Numbers                        
 
 > Recursion Function
