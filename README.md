@@ -30,5 +30,3 @@ Projects
 > Basic User Interface
 
 > Calculating Circumference and Area of Circle
-
-> Matusz project
