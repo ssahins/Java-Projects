@@ -1,6 +1,6 @@
 // List class VS Set class (HashSet and LinkedHashSet)
 
-// Set classes -> You cannot the same element more than one by using HashSet(Set Class)
+// Set classes -> You cannot output the same element more than one by using HashSet(Set Class)
 // Set Classes -> Output the elements in order
 
 import java.util.HashSet;
