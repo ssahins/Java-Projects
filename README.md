@@ -6,6 +6,8 @@ Projects
 
 > Basic Calculator Program 
 
+> Game TikTakToe
+
 > Calculating Factorial
 
 > Calculating the number of days till now
