@@ -2,7 +2,7 @@ import java.util.Scanner;
 /*
    A recursion function is a programming technique where
    a function calls itself in order to solve a problem.
-   This allows problems to be solved by breaking them down into smaller, similar sub-problems.
+   This allows problems to be solved by breaking them down into smaller, similar sub-problems
  */
 
 public class Recursion {
