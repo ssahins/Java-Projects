@@ -20,4 +20,4 @@ Projects
 
 > Abstract Classes
 
-> Inheritance(Super key word, override)
+> Inheritance(super key word, override)
