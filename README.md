@@ -4,7 +4,7 @@ Welcome to the Basic Java Projects repository! Here you'll find a collection of 
 
 Projects
 
-> Checking Even Numbers
+> Checking Even Numbers                             > Calculating Circumference and Area of Circle
 
 > Recursion Function
 
