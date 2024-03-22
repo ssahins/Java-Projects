@@ -11,3 +11,5 @@ Projects
 > Calculating the number of days till now
 
 > Calculating Factorial
+
+> Calculating Age from Birthyear
