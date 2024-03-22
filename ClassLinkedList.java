@@ -35,7 +35,7 @@ public class ClassLinkedList {
         list.clear();
         System.out.println(list.isEmpty()); // if empty returns true, if not returns false
         System.out.println(list.peek()); // prints the first value
-        System.out.println(list.contains("A")); //if contains P returns true if not returns false
+        System.out.println(list.contains("A")); //if contains A returns true if not returns false
 
 
 
