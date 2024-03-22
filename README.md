@@ -9,3 +9,5 @@ Projects
 > Recursion Function
 
 > Calculating the number of days till now
+
+> Calculating Factorial
