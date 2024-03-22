@@ -14,7 +14,7 @@ Projects
 
 > Stack Data Structure
 
-> Stack Data Structure
+> Queue Data Structure
 
 > Checking Even Numbers                        
 
