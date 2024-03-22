@@ -12,6 +12,10 @@ Projects
 
 > Calculating the number of days till now
 
+> LinkedList
+
+> ArrayList
+
 > Stack Data Structure
 
 > Queue Data Structure
