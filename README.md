@@ -20,6 +20,8 @@ Projects
 
 > Queue Data Structure
 
+> Threads in Java
+
 > Checking Even Numbers                        
 
 > Recursion Function
