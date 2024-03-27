@@ -20,6 +20,8 @@ Projects
 
 > Queue Data Structure
 
+> Generic Methods
+
 > Threads in Java
 
 > Checking Even Numbers                        
