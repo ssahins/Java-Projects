@@ -20,6 +20,8 @@ Projects
 
 > Queue Data Structure
 
+> Generic Classes
+
 > Generic Methods
 
 > Threads in Java
