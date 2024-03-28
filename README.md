@@ -4,6 +4,8 @@ Welcome to the Basic Java Projects repository! Here you'll find a collection of 
 
 Projects
 
+> First Code -> Hello World!
+
 > Basic Calculator Program 
 
 > Game TikTakToe
