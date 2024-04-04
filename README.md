@@ -14,9 +14,9 @@ Projects
 
 > Calculating the number of days till now
 
-> LinkedList
-
 > ArrayList
+
+> LinkedList
 
 > Stack Data Structure
 
