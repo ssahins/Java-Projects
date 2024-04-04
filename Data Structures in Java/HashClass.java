@@ -3,6 +3,12 @@
 // Set classes -> You cannot output the same element more than one by using HashSet(Set Class)
 // Set Classes -> Output the elements in order
 
+/* add - adding new element
+   remove - removing one element(and getting its value)
+   empty - checking if the set is empty
+   clear - clear all elements
+        */
+
 import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.Set;
@@ -18,6 +24,7 @@ public class HashClass {
         fruit.add("Bannana");
         fruit.add("Apple");
         fruit.add("Apple");
+
 
        // fruit.clear();
 
