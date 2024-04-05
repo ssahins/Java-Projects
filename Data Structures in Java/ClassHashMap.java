@@ -37,40 +37,40 @@ public class ClassHashMap {
 
     // Store elements to easily accesible place(HashMap)
 
-        HashMap<String, Integer> happy = new HashMap<String, Integer>();
+        HashMap<String, Integer> numbers = new HashMap<String, Integer>();
         System.out.println();
-        happy.put("a", 10);  // String, int
-        happy.put("b", 3);
-        happy.put("c", 88);
+        numbers.put("a", 10);  // String, int
+        numbers.put("b", 3);
+        numbers.put("c", 88);
 
-        System.out.println(happy); // {a=10, b=3, c=88}
-        System.out.println(happy.get("c"));  // 88
+        System.out.println(numbers); // {a=10, b=3, c=88}
+        System.out.println(numbers.get("c"));  // 88
 
 
-        HashMap<String, String> fun = new HashMap<String, String>();
+        HashMap<String, String> user = new HashMap<String, String>();
 
-        fun.put("Elon Musk","Elon123456"); // String, String (username, password)
-        fun.put("Cristiano Ronaldo", "Ronaldo1234");
-        fun.put("Lional Messi", "Messi123");
+        user.put("Elon Musk","Elon123456"); // String, String (username, password)
+        user.put("Cristiano Ronaldo", "Ronaldo1234");
+        user.put("Lional Messi", "Messi123");
 
-        System.out.println(fun);
+        System.out.println(user);
 
-        fun.remove("Cristiano Ronaldo"); // remove the user
+        user.remove("Cristiano Ronaldo"); // remove the user
 
-        System.out.println(fun);
+        System.out.println(user);
 
-        System.out.println(fun.containsValue("Messi123")); // checks is the collection has this value
+        System.out.println(user.containsValue("Messi123")); // checks is the collection has this value
 
-        System.out.println(fun.containsKey("Messi123"));  // checks left
+        System.out.println(user.containsKey("Messi123"));  // checks left
 
-        System.out.println(fun.size());
+        System.out.println(user.size());
 
-        System.out.println(fun.replace("Elon Musk", "Elon1234567"));
+        System.out.println(user.replace("Elon Musk", "Elon1234567"));
 
-        System.out.println(fun);
+        System.out.println(user);
 
-        fun.clear();
-        System.out.println(fun);
+        user.clear();
+        System.out.println(user);
 
 
 
