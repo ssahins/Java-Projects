@@ -22,6 +22,10 @@ Projects
 
 > Queue Data Structure
 
+> HashSet
+
+> HashMap
+
 > Generic Classes
 
 > Generic Methods
@@ -33,8 +37,6 @@ Projects
 > Recursion Function
 
 > Calculating Age from Birthyear
-
-> HashSet
 
 > Interface 
 
