@@ -7,7 +7,7 @@ class MyThread extends Thread {
 
     public void run() {
         if (this.isDaemon()) {
-            System.out.println("This is not a deamon thread");
+            System.out.println("This is a deamon thread");
         } else {
             System.out.println("This is not a deamon thread");
         }
