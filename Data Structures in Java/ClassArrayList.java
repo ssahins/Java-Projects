@@ -7,12 +7,12 @@ It provides resizable arrays, which means the size of an ArrayList can be dynami
    adding elements, removing elements, retrieving elements by index, searching for elements, etc.
 
 
- add - adding new element
- remove - removing one element(and getting its value)
- empty - checking if the stack is empty
- peek - prints the first value
- set - update the list
- clear - clear all elements
+ add() -> adding new element
+ remove() -> removing one element(and getting its value)
+ empty() -> checking if the stack is empty
+ peek() -> prints the first value
+ set() -> update the list
+ clear() -> clear all elements
  */
 
 import java.util.ArrayList;
@@ -24,18 +24,18 @@ public class ClassArrayList {
 
         // adding element
         list.add("Mateusz");
-        list.add("Arek");
+        list.add("David");
         list.add("Sahin");
-        list.add("Arda");
+        list.add("Alex");
 
-        list.add(1, "Lucasz");
+        list.add(1, "Guiza");
 
         // removing element
         list.remove(2);
         list.remove("Sahin");
 
         // update
-        list.set(2,"Ahmet");
+        list.set(2,"Carlos");
 
         // clear
         list.clear();
