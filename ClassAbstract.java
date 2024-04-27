@@ -1,4 +1,12 @@
-// Abstract Class
+/*
+An abstract class in object-oriented programming serves as a blueprint for other classes.
+It cannot be instantiated on its own; rather, it's meant to be subclassed by other classes,
+which then inherit its properties and methods.
+Abstract classes can contain both abstract methods (methods without a body, which must be implemented by subclasses) and
+concrete methods (methods with a body, which can be inherited as-is or overridden by subclasses).
+They provide a way to define common behavior and enforce a structure for subclasses
+while allowing for customization through method implementations.
+ */
 
 abstract class Shape {
 
