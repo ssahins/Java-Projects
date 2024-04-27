@@ -1,4 +1,10 @@
-// Using Interface
+/*
+An interface in object-oriented programming is similar to an abstract class in that
+it defines a contract for classes to follow. However, unlike abstract classes,
+interfaces cannot contain any implementation details; they only define methods and constants that
+implementing classes must provide.
+ */
+
 interface IDatabase {
 
     public void add();
