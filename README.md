@@ -30,6 +30,12 @@ Projects
 
 > Generic Methods
 
+> Interfaces
+
+> Abstract Classes
+
+> Enums
+
 > Threads in Java
 
 > Checking Even Numbers                        
@@ -37,12 +43,6 @@ Projects
 > Recursion Function
 
 > Calculating Age from Birthyear
-
-> Interfaces
-
-> Abstract Classes
-
-> Enums
 
 > Inheritance(super key word, override)
 
