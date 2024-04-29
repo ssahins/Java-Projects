@@ -42,6 +42,8 @@ Projects
 
 > Abstract Classes
 
+> Enums
+
 > Inheritance(super key word, override)
 
 > Constructor
